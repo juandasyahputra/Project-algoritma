@@ -1,0 +1,12 @@
+Mulai
+Input jumlah siswa
+Untuk setiap siswa
+    Input nama siswa
+    Input nilai tugas
+    Input nilai UTS
+    Input nilai UAS
+    Hitung nilai akhir
+    Tentukan grade
+Selesai perulangan
+Tampilkan data semua siswa
+Selesai
